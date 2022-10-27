@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554398452 source:h:\taller de lenguajes i\stringej3-p2\main.c
+	<stdio.h>
+	<string.h>
+

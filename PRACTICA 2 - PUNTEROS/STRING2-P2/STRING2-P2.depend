@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554397030 source:h:\taller de lenguajes i\string2-p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
