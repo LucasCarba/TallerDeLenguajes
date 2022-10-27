@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553095850 source:d:\taller de lenguajes i\clase 1\ej16random\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

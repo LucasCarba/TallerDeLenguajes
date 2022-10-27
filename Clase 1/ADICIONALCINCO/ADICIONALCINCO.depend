@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553094508 source:d:\taller de lenguajes i\clase 1\adicionalcinco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
