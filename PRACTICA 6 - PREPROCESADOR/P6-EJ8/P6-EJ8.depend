@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559154392 source:h:\taller de lenguajes i\p6-ej8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
