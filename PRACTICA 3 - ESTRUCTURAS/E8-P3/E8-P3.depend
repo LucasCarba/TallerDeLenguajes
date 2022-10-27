@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555367376 source:h:\taller de lenguajes i\e8-p3\main.c
+	<stdio.h>
+	<stdlib.h>
+

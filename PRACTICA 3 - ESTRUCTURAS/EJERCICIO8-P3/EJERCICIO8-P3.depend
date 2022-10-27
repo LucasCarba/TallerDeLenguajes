@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556913584 source:h:\taller de lenguajes i\ejercicio8-p3\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554897992 source:f:\taller de lenguajes i\e1p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

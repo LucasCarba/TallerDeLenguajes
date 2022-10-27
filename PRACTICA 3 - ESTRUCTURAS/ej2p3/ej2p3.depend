@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554900932 source:f:\taller de lenguajes i\ej2p3\main.c
+	<stdio.h>
+	<stdlib.h>
+
