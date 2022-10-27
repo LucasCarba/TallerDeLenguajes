@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559580326 source:h:\taller de lenguajes i\modulo 2\practica 5 - archivos\leerdatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

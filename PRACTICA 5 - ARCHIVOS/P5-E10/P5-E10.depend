@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559505648 source:h:\taller de lenguajes i\modulo 2\practica 5 - archivos\p5-e10\main.c
+	<stdio.h>
+	<stdlib.h>
+

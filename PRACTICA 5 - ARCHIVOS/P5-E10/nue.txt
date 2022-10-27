@@ -1,0 +1,5 @@
+AcidezFija AcidezVolatil AcidoCitrico Azucar pH Sulfatos Alcohol Calidad 
+6.00 | 1.66 | 1.66 | 65.80 | 4.01 | 2.00 | 14.90 | 6.00 
+ 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 6.00 
+ 7.34 | 0.32 | 0.32 | 5.44 | 3.22 | 0.53 | 10.49 | 0.00 
+ 
